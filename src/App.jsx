@@ -1,11 +1,9 @@
 import './App.css'
+import AppRouter from "./AppRouter.jsx";
 
 function App() {
-
   return (
-    <div>
-       Pet store
-    </div>
+      <AppRouter />
   )
 }
 
